@@ -1,0 +1,10 @@
+baseurl: /watchable-quotes/
+description: Collection of quotes in video
+encoding: UTF-8
+exclude: [.gitignore, Gemfile, Gemfile.lock, node_modules, vendor/bundle/, vendor/cache/,
+  vendor/gems/, vendor/ruby/, readme.md]
+github_username: gamwe6
+markdown: kramdown
+title: Watchable Quotes
+twitter_username: gamwe6
+url: https://gamwe6.github.io/
